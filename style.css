@@ -5,6 +5,7 @@ body {
 
 table {
     color: pink;
+    border: 1px;
 }
 
 td {
